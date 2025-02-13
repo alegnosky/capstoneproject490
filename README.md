@@ -1,2 +1,2 @@
-# capstoneproject490
+# Capstone Project
 VPN project
